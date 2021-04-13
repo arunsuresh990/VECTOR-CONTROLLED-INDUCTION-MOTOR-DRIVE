@@ -14,4 +14,4 @@ motoring. This method finds its application where an IM is to be operated as a
 generator supplying power to the grid. The simulated response of an induction
 motor will be presented in different modes of operation.
 
-More details at https://asresearches.wordpress.com/2016/05/16/taming-the-king/
+More details at https://asresearches.wordpress.com/2016/05/16/imcontrol/
